@@ -3,8 +3,6 @@
   <img src="./assets/banner-dark.png" width="100%" alt="Leo, también conocido como AJAX" />
 </picture>
 
-<img align="right" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/217509394%3Fv%3D4&w=150&h=150&fit=cover&mask=circle" width="130" alt="Foto de perfil" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1600&color=A78BFA&vCenter=true&width=440&height=28&lines=Software+designer+%26+developer;Product+design+%C2%B7+PM;AI+builder" alt="Software designer & developer · Product design · AI builder" />
 
 Hola 👋 Diseño y desarrollo software pensando primero en el producto: qué problema resuelve, para quién y cómo se siente usarlo.
@@ -14,8 +12,6 @@ Hola 👋 Diseño y desarrollo software pensando primero en el producto: qué pr
 - 🤖 Experimento con IA local y la llevo a apps reales
 
 🔭 **Ahora mismo:** dándole voz y memoria a Belle &nbsp;·&nbsp; 🌱 **Explorando:** Kotlin
-
-<br clear="right">
 
 ---
 

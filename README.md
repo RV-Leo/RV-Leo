@@ -38,9 +38,9 @@ Asistente de voz inspirado en *Zenless Zone Zero*. Escucha, piensa y responde co
 
 - 🧭 Antes de escribir código me pregunto: *¿esto le sirve a alguien?*
 - 🧪 Si sale una herramienta de IA nueva, probablemente ya la estoy probando.
-- 🎮 Fan de *Zenless Zone Zero*, de ahí nació Belle.
-- 🐱 Sí, la foto es un gato con audífonos. Así programo.
-
+- 🌎 Me gusta aprender nuevos idiomas, no solo lenguajes de programación.
+- 🎮 Me gustan los videojuegos, el anime, el arte y la música variada.
+ 
 </details>
 
 ---

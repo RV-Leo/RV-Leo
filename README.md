@@ -6,6 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1600&color=A78BFA&vCenter=true&width=440&height=28&lines=Software+designer+%26+developer;Product+design+%C2%B7+PM;AI+builder" alt="Software designer & developer · Product design · AI builder" />
 
 Hola 👋 Diseño y desarrollo software pensando primero en el producto: qué problema resuelve, para quién y cómo se siente usarlo.
+Software Development Student- AI - Product Management Agentic Systems - UX/UI-Leadership & Innovation - Future AI Product Manager 🇩🇪
 
 - 🧩 Llevo ideas a producto: las defino, las diseño y las construyo
 - 🎨 Cuido la experiencia tanto como el código
